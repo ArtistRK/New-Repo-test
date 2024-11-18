@@ -20,3 +20,9 @@ Are you Ready
 # It is coming very soon now
 ### Promises
 * you are not going back now
+```
+We are not gonna stop until we make it
+```
+# It is close to start now
+### Promises are meant to be kept
+* you are not gonna give up
