@@ -1,4 +1,4 @@
-
+#Test script
 name = input("Bakra tera nam ki aa: ")
 
 age = input("Ho kina da gea aa: ")
