@@ -8,4 +8,3 @@ print(f"Hanji {name} ustadd ji, tuc {age} hoga a")
 Print ("Hello World")
 
 Print ("Bye World")
-
